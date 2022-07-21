@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Playfair;
+    src: url(/fonts/PlayfairDisplay-VariableFont_wght.ttf);
+  }
+  
+* {
+    text-align: center;
+    background-color: #FFF2A1;
+    font-family: Playfair;
+    color: #D75D5B;
+}
+
+h2{
+    font-size: 15px;
+}
+
+h3{
+    font-size: 15px;
+}
+
+img{
+    border: #D75D5B;
+    border-radius: 30px;
+}
+
+li{
+    text-align: left;
+}
+
+#index-list{
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
